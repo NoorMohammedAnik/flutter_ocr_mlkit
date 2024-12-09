@@ -16,6 +16,8 @@ class _HomePageState extends State<HomePage> {
   late XFile? pickImage;
   late String resultText;
 
+
+
   @override
   void initState() {
     pickImage = null;
